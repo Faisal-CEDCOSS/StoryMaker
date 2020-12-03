@@ -1,0 +1,36 @@
+.logo
+{
+  border-radius:15px;
+  background-color: white;    
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 1%;
+}
+
+.text_story
+{
+  border-radius:15px;
+  background-color: #ffecb3;  
+  overflow-y: scroll;
+  height: 60vh;  
+  text-align: center;
+  padding: 5%;
+  margin-left: 20%;
+  margin-right: 20%;	
+}
+
+.text_input
+{
+  border-radius:15px;
+  background-color: #ffecb3;   
+  text-align: center;
+  padding: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.div_input
+{
+	padding: 1%;
+}
